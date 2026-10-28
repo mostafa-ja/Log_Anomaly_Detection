@@ -1,0 +1,736 @@
+ras kernel info instruction cache parity error corrected
+ras linkcard info midplaneswitchcontroller performing bit sparing on bit
+ras kernel info generating
+ras kernel info ddr errors s detected and corrected on rank symbol bit
+ras kernel info edram error s dcr detected and corrected
+ras kernel info ce sym at mask
+ras kernel info total of ddr error s detected and corrected
+ras kernel info ddr activating redundant bit steering rank symbol
+ras kernel info ddr excessive soft failures consider replacing the card
+ras app fatal ciod error loading invalid or missing program image no such file or directory
+ras kernel info doublehummer alignment exceptions
+ras kernel info tree receiver in resynch state event s dcr detected
+ras kernel fatal instruction address
+ras kernel fatal dcache search parity
+ras kernel fatal dcache flush parity
+ras kernel fatal imprecise machine
+ras kernel fatal machine state register
+ras kernel fatal wait state
+ras kernel fatal critical input interrupt
+ras kernel fatal external input interrupt
+ras kernel fatal problem state sup usr
+ras kernel fatal floating point instr
+ras kernel fatal machine check
+ras kernel fatal floating pt ex mode
+ras kernel fatal debug wait
+ras kernel fatal debug interrupt
+ras kernel fatal data address
+ras kernel fatal core configuration register
+ras kernel fatal disable store
+ras kernel fatal disable apu instruction
+ras kernel fatal disable trace
+ras kernel info torus receiver x input pipe error s dcr detected and corrected
+ras kernel info torus receiver y input pipe error s dcr detected and corrected
+ras kernel info torus receiver z input pipe error s dcr detected and corrected
+ras kernel fatal guaranteed instruction cache block
+ras kernel fatal guaranteed data cache block
+ras kernel fatal force loadstore
+ras kernel fatal icache prefetch
+ras kernel fatal general purpose registers
+ras kernel fatal
+ras kernel fatal special purpose registers
+ras kernel fatal rts internal error
+ras app fatal ciod login chdir failed no such file or directory
+ras kernel info directory error s dcr detected and corrected
+ras kernel info ciod message code is not or
+ras kernel info ciod pollcontroldescriptors detected the debugger died
+ras kernel info ciod for node read continuation request but iostate is
+ras kernel info ciod cpu at treeaddr sent unrecognized message
+ras app fatal ciod error loading homeyatesbglaswltestsbglaswlmpitestsworkbglaswlmpifunctestsmpitsfunctestsdoempitstestcasesallgather invalid or missing program image no such file or directory
+ras app fatal ciod login chdir failed permission denied
+ras kernel fatal instruction plb
+ras kernel fatal data read plb
+ras kernel fatal data write plb
+ras kernel fatal tlb
+ras kernel fatal icache parity
+ras kernel fatal global control register
+ras kernel fatal start
+ras kernel fatal disable speculative
+ras kernel fatal close edram pages as soon as
+ras kernel fatal size of scratchpad portion of
+ras kernel fatal disable all access to cache
+ras kernel fatal write buffer commit
+ras kernel fatal size of ddr we are
+ras kernel fatal prefetch depth for core
+ras kernel fatal prefetch depth for plb
+ras kernel fatal max number of outstanding
+ras kernel fatal turn on hidden
+ras kernel fatal disable write lines
+ras kernel fatal ecc control register
+ras kernel fatal capture first directory correctable error
+ras kernel fatal capture first directory uncorrectable error
+ras kernel fatal capture first edram correctable error
+ras kernel fatal capture first edram uncorrectable error
+ras kernel fatal capture first edram parity error
+ras kernel fatal capture first ddr uncorrectable error
+ras kernel fatal disable flagging of ddr ues as major internal
+ras kernel fatal ecc status register
+ras kernel fatal correctable error detected in directory
+ras kernel fatal uncorrectable error detected in directory
+ras kernel fatal correctable error detected in edram bank
+ras kernel fatal uncorrectable error detected in edram bank
+ras kernel fatal memory manager address
+ras kernel fatal memory manager store buffer
+ras kernel fatal memory manager rmw buffer
+ras kernel fatal memory manager
+ras kernel fatal memory manager refresh counter
+ras kernel fatal memory manager refresh
+ras kernel fatal state
+ras kernel fatal memory manager command manager address
+ras kernel fatal regctl scancom
+ras kernel fatal ddr failing info register
+ras kernel fatal capture
+ras kernel fatal uncorrectable
+ras kernel fatal address parity
+ras kernel fatal correctable
+ras kernel fatal qw
+ras kernel fatal chip
+ras kernel fatal ddr failing data registers
+null hardware warning prepareforservice is being done on this card mlctn mcardsernum mlp mip mtype by root
+null hardware warning prepareforservice shutting down nodecard mlctn mcardsernum mlp mip mtype as part of service action
+unknownlocation unknownlocation null hardware warning endserviceaction is restarting the nodecards in midplane as part of service action
+unknownlocation unknownlocation null hardware warning endserviceaction performed upon by root
+null discovery warning node card is not fully functional
+null discovery severe can not get assembly information for node card
+null discovery error node card status no alerts are active clock mode is low clock select is midplane phy jtag reset is asserted asic jtag reset is asserted temperature mask is not active no temperature error temperature limit error latch is clear pgood is not asserted pgood error latch is active mpgood is not ok mpgood error latch is active the volt rail is ok the volt rail is ok
+null discovery warning node card vpd check node in processor card slot do not match vpd ecid found
+null null ras mmcs info idoproxydb has been started name input parameters enableflush loguserinfo dbproperties
+null null ras mmcs info mmcsdbserver has been started mmcsdbserver usedatabase bgl dbproperties serverdbproperties iolog bglbluelightlogsbgl reconnectblocks all
+null null ras mmcs info ciodb has been restarted
+ras kernel info correctable errors exceeds threshold iar lr
+ras kernel info torus sender x retransmission error s dcr detected and corrected
+unknownlocation unknownlocation null cmcs info starting systemcontroller
+unknownlocation unknownlocation null cmcs info controlling bgl rows
+unknownlocation unknownlocation null cmcs info running as background command
+ras kernel fatal exception syndrome register
+ras kernel fatal program interrupt illegal
+ras kernel fatal program interrupt privileged
+ras kernel fatal program interrupt trap
+ras kernel fatal floating point
+ras kernel fatal store
+ras kernel fatal data store interrupt caused by
+ras kernel fatal auxiliary
+ras kernel fatal program interrupt unimplemented
+ras kernel fatal byte ordering
+ras kernel fatal program interrupt imprecise
+ras kernel fatal program interrupt fp cr
+ras kernel fatal program interrupt fp
+ras kernel fatal program interrupt fp cr field
+ras kernel info torus processor sram reception error s dcr detected and corrected
+ras kernel fatal external input interrupt unit bit torus sender x retransmission error was corrected
+ras kernel fatal external input interrupt unit bit torus sender z retransmission error was corrected
+ras kernel fatal external input interrupt unit bit torus sender y retransmission error was corrected
+ras kernel info external input interrupt unit bit number of corrected sram errors has exceeded threshold
+ras kernel info suppressing further interrupts of same type
+ras kernel fatal machine check status register
+ras kernel fatal command manager unit
+ras kernel fatal memory manager uncorrectable
+ras kernel fatal memory manager strobe
+ras kernel fatal memory manager address parity
+ras kernel fatal ddr failing address register
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m fri jun pdt
+null null ras bglmaster info bglmaster has been started bglmaster consoleip consoleport configfile bglmasterinit
+unknownlocation unknownlocation null discovery severe bglidochip table has idos with the same ip address
+unknownlocation unknownlocation null discovery severe serialnumber ipaddress status a
+unknownlocation unknownlocation null discovery severe while initializing node card ido machine with lp of caught javaioioexception could not contact ido with lp and ip because javalangruntimeexception communication error directido for uninitialized directido for is in state communicationerror sequencenumberisok false expectedsequencenumber reply sequence number timedout true retries timeout expected op command actual op reply expected sync command actual sync reply
+unknownlocation unknownlocation null hardware severe nodecard vpd is corrupt
+unknownlocation unknownlocation null discovery severe while initializing node card ido with lp of caught javalangillegalstateexception ido is not in functional state currently in state communicationerror
+ras app fatal ciod error loading homedraegertestqboxhangnozerobytebugnosleepnocomm invalid or missing program image no such file or directory
+ras app fatal ciod error loading homedraegertestqboxhangnozerobytebugnosleepyescomm invalid or missing program image no such file or directory
+ras kernel info ciod unexpected eof at line of node map file
+ras kernel info ddr unable to steer rank symbol rank is already steering symbol due to multiple symbols being over the correctable
+ras kernel info error threshold consider replacing the card
+ras kernel fatal memory and bus
+null hardware warning prepareforservice is being done on this part mlctn mcardsernum mlp mip mtype by root
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m tue jun pdt
+ras app fatal ciod error loading program image too big
+ras app fatal ciod error loading writelog invalid or missing program image no such file or directory
+ras app fatal ciod error loading make invalid or missing program image no such file or directory
+ras app fatal ciod error loading userfuncsqrt invalid or missing program image no such file or directory
+ras app fatal ciod error loading userfunccbrt invalid or missing program image no such file or directory
+ras app fatal ciod error loading userfuncbits invalid or missing program image no such file or directory
+ras app fatal ciod error loading userfuncpower invalid or missing program image no such file or directory
+ras app fatal ciod error loading userfuncmodulo invalid or missing program image no such file or directory
+ras app fatal ciod error loading userfuncround invalid or missing program image no such file or directory
+ras app fatal ciod error loading userfunctopologies invalid or missing program image no such file or directory
+ras app fatal ciod error loading userfuncrandom invalid or missing program image no such file or directory
+ras app fatal ciod error loading runtimeinit invalid or missing program image no such file or directory
+ras app fatal ciod error loading runtimetime invalid or missing program image no such file or directory
+ras app fatal ciod error loading runtimemalloc invalid or missing program image no such file or directory
+ras app fatal ciod error loading runtimeverify invalid or missing program image no such file or directory
+ras app fatal ciod error loading runtimewalk invalid or missing program image no such file or directory
+ras app fatal ciod error loading runtimequeue invalid or missing program image no such file or directory
+ras app fatal ciod error loading runtimecmdline invalid or missing program image no such file or directory
+ras app fatal ciod error loading runtimelogfile invalid or missing program image no such file or directory
+ras app fatal ciod error loading runtimerandom invalid or missing program image no such file or directory
+ras app fatal ciod error loading runtimewatchdog invalid or missing program image no such file or directory
+ras kernel info critical input interrupt unit bit warning for tree wire
+ras app fatal ciod error loading aout invalid or missing program image no such file or directory
+ras kernel fatal kill job timed out block freed
+ras kernel info ddr unable to steer rank symbol rank is already steering symbol due to multiple symbols being over the correctable e
+ras kernel info rror threshold consider replacing the card
+ras kernel info data storage interrupt
+ras kernel info instruction address
+ras kernel info data address
+ras kernel info machine state register
+ras kernel info wait state
+ras kernel info critical input interrupt
+ras kernel info external input interrupt
+ras kernel info problem state sup usr
+ras kernel info floating point instr
+ras kernel info machine check
+ras kernel info floating pt ex mode
+ras kernel info debug wait
+ras kernel info debug interrupt
+ras kernel info core configuration register
+ras kernel info disable store
+ras kernel info disable apu instruction
+ras kernel info disable trace
+ras kernel info guaranteed instruction cache block
+ras kernel info guaranteed data cache block
+ras kernel info force loadstore
+ras kernel info icache prefetch
+ras kernel info general purpose registers
+ras kernel info
+ras kernel info special purpose registers
+ras kernel info program interrupt
+ras kernel info exception syndrome register
+ras kernel info program interrupt illegal
+ras kernel info program interrupt privileged
+ras kernel info program interrupt trap
+ras kernel info floating point
+ras kernel info store
+ras kernel info data store interrupt caused by
+ras kernel info auxiliary
+ras kernel info program interrupt unimplemented
+ras kernel info byte ordering
+ras kernel info program interrupt imprecise
+ras kernel info program interrupt fp cr
+ras kernel info program interrupt fp
+ras kernel info program interrupt fp cr field
+ras kernel info ciod x coordinate exceeds physical dimension at line of node map file
+ras kernel info floating point alignment exceptions
+ras kernel info torus sender y retransmission error s dcr detected and corrected
+ras app fatal ciod error loading homefgygictoolsdgemmdgtest invalid or missing program image no such file or directory
+ras kernel info torus sender z retransmission error s dcr detected and corrected
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m mon jun pdt
+unknownlocation unknownlocation null discovery severe problem communicating with node card ido machine with lp of caught javalangillegalstateexception while executing operation caught javalangruntimeexception communication error directido for comibmidodirectido object with image version and card type is in state communicationerror sequencenumberisok false expectedsequencenumber reply sequence number timedout true retries timeout expected op command actual op reply expected sync command actual sync reply
+unknownlocation unknownlocation null discovery severe while initializing node card ido with lp of caught javalangillegalstateexception while executing operation caught javalangruntimeexception communication error directido for comibmidodirectido object with image version and card type is in state communicationerror sequencenumberisok false expectedsequencenumber reply sequence number timedout true retries timeout expected op command actual op reply expected sync command actual sync reply
+null discovery error node card status no alerts are active clock mode is low clock select is midplane phy jtag reset is asserted asic jtag reset is asserted temperature mask is not active no temperature error temperature limit error latch is clear pgood is not asserted pgood error latch is active mpgood is not ok mpgood error latch is active the volt rail is not ok the volt rail is not ok
+unknownlocation unknownlocation null discovery severe while initializing node card ido with lp of caught javalangillegalstateexception while executing control operation caught javalangruntimeexception communication error directido for comibmidodirectido object with image version and card type is in state communicationerror sequencenumberisok false expectedsequencenumber reply sequence number timedout true retries timeout expected op command actual op reply expected sync command actual sync reply
+unknownlocation unknownlocation null discovery severe problem communicating with node card ido machine with lp of caught javalangillegalstateexception while executing control operation caught javalangruntimeexception communication error directido for comibmidodirectido object with image version and card type is in state communicationerror sequencenumberisok false expectedsequencenumber reply sequence number timedout true retries timeout expected op command actual op reply expected sync command actual sync reply
+unknownlocation unknownlocation null hardware severe nodecard temperature sensor chip is not accessible
+unknownlocation unknownlocation null hardware severe nodecard power module is not accessible
+unknownlocation unknownlocation null hardware severe nodecard vpd chip is not accessible
+unknownlocation unknownlocation null discovery severe while initializing node card ido with lp of caught javalangnullpointerexception
+unknownlocation unknownlocation null discovery error node card status alert alert alert alert is are active clock mode is low clock select is midplane phy jtag reset is asserted asic jtag reset is not asserted temperature mask is active no temperature error temperature limit error latch is clear pgood is asserted pgood error latch is clear mpgood is ok mpgood error latch is clear the volt rail is ok the volt rail is ok
+ras kernel fatal target message pll failed to lock
+ras kernel fatal target message scomerror
+ras kernel fatal target message invalid jtagid ffffffff
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m wed jun pdt
+null discovery error node card status no alerts are active clock mode is low clock select is midplane phy jtag reset is asserted asic jtag reset is asserted temperature mask is not active no temperature error temperature limit error latch is clear pgood is not asserted pgood error latch is active mpgood is ok mpgood error latch is active the volt rail is ok the volt rail is ok
+ras kernel info critical input interrupt unit bit warning for torus z wire
+ras kernel info critical input interrupt unit bit warning for torus y wire
+ras kernel info critical input interrupt unit bit warning for torus x wire
+ras kernel info ddr unable to steer rank symbol rank is already steering symbol due to multiple symbols being over the correctabl
+ras kernel info e error threshold consider replacing the card
+ras kernel info ciod error opening node map file no such file or directory
+ras app fatal ciod error creating node map from file bad file descriptor
+ras kernel info torus noncrc error s dcr detected and corrected
+ras kernel info shutdown complete
+null hardware warning prepareforservice is being done on this midplane mlctn mcardsernum by root
+null hardware warning prepareforservice shutting down linkcard mlctn mcardsernum mlp mip mtype as part of service action
+unknownlocation unknownlocation null hardware warning endserviceaction is restarting the linkcards in midplane as part of service action
+unknownlocation unknownlocation null hardware warning prepareforservice is being done on this rack by root
+null hardware severe nodecard power module is not accessible
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m fri jul pdt
+null hardware severe linkcard power module is not accessible
+null hardware severe nodecard is not fully functional
+null hardware severe linkcard is not fully functional
+null discovery warning this link card is not fully functional
+ras kernel info ciod in packet from node message code is not or softheader
+ras kernel info ciod missing or invalid fields on line of node map file
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m tue jul pdt
+null discovery severe problem reading the ethernet arl entries fro the service card javalangillegalstateexception while executing operation caught javalangruntimeexception communication error directido for comibmidodirectido object with image version and card type is in state communicationerror sequencenumberisok false expectedsequencenumber reply sequence number timedout true retries timeout expected op command actual op reply expected sync command actual sync reply
+ras kernel fatal machine state register machine state register machine state register machine state register machine state register machine
+ras kernel fatal state register machine state register machine state register machine state register machine state register machine state re
+ras kernel fatal gister machine state register machine state register machine state register machine state register machine state register
+unknownlocation unknownlocation null discovery info new ido chip inserted into the database ip v t
+unknownlocation unknownlocation null discovery warning node card is not fully functional
+unknownlocation unknownlocation null discovery severe can not get assembly information for node card
+unknownlocation unknownlocation null discovery error node card status no alerts are active clock mode is low clock select is midplane phy jtag reset is asserted asic jtag reset is asserted temperature mask is not active no temperature error temperature limit error latch is clear pgood is not asserted pgood error latch is active mpgood is not ok mpgood error latch is active the volt rail is ok the volt rail is ok
+ras kernel fatal max
+ras app fatal ciod error loading partsn invalid or missing program image no such file or directory
+ras kernel info ciod duplicate canonicalrank to logicalrank mapping at line of node map file
+ras kernel info ciod t coordinate exceeds physical dimension at line of node map file
+ras app fatal ciod error creating node map from file block device required
+ras kernel info ciod y coordinate exceeds physical dimension at line of node map file
+ras app fatal dcr
+null null ras mmcs info mmcsdbserver has been started bglbluelightppcfloorbglsysbinmmcsdbserver usedatabase bgl dbproperties serverdbproperties iolog bglbluelightlogsbgl reconnectblocks all
+ras kernel fatal ax
+ras app fatal ciod error creating node map from file permission denied
+ras app fatal ciod error loading invalid or missing program image exec format error
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m wed jul pdt
+ras app fatal ciod error loading memtest invalid or missing program image no such file or directory
+ras kernel info ciod z coordinate exceeds physical dimension at line of node map file
+ras app fatal ciod error creating node map from file bad address
+ras kernel info ciod sendmsgtodebugger error sending programexited message to debugger
+ras app fatal ciod error loading prnlev invalid or missing program image no such file or directory
+ras kernel fatal x
+ras app fatal ciod error loading hommebuildlinuxpreqx invalid or missing program image no such file or directory
+ras app fatal ciod error loading hommebuildlinuxpreqx n invalid or missing program image no such file or directory
+null null ras bglmaster failure ciodb exited normally with exit code
+ras app fatal ciod error loading homeayoocpgraphmulti invalid or missing program image no such file or directory
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m thu jul pdt
+unknownlocation unknownlocation null discovery warning node card vpd check node in processor card slot do not match vpd ecid found
+ras app fatal ciod login chdir homeckapfersamrailinadvinput failed no such file or directory
+ras app fatal ciod login chdir homeckapfersamrailinadvinputshort failed no such file or directory
+null discovery info node card vpd check node in processor card slot do not match vpd ecid found
+null discovery info node card vpd check missing node vpd ecid in processor card slot
+unknownlocation unknownlocation null servnet warning declareservicenetworkcharacteristics has been run but the db is not empty
+unknownlocation unknownlocation null servnet error declareservicenetworkcharacteristics has been run with the force option but the db is not empty
+unknownlocation unknownlocation null servnet info added subnets and addresses to db
+unknownlocation unknownlocation null discovery info node card vpd check node in processor card slot do not match vpd ecid found
+unknownlocation unknownlocation null hardware severe nodecard is not fully functional
+unknownlocation unknownlocation null discovery warning problem communicating with service card ido chip javalangillegalstateexception ido is not in functional state currently in state communicationerror
+unknownlocation unknownlocation null discovery severe while initializing service card ido with lp of caught javaioioexception could not contact ido with lp and ip because javalangruntimeexception communication error directido for uninitialized directido for is in state communicationerror sequencenumberisok false expectedsequencenumber reply sequence number timedout true retries timeout expected op command actual op reply expected sync command actual sync reply
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m tue aug pdt
+unknownlocation unknownlocation null discovery error node card status no alerts are active clock mode is low clock select is midplane phy jtag reset is asserted asic jtag reset is asserted temperature mask is not active no temperature error temperature limit error latch is clear pgood is not asserted pgood error latch is active mpgood is ok mpgood error latch is active the volt rail is ok the volt rail is ok
+unknownlocation unknownlocation null discovery severe while initializing link card ido machine with lp of caught javaioioexception could not contact ido with lp and ip because javalangruntimeexception communication error directido for uninitialized directido for is in state communicationerror sequencenumberisok false expectedsequencenumber reply sequence number timedout true retries timeout expected op command actual op reply expected sync command actual sync reply
+unknownlocation unknownlocation null discovery severe expected active fanmodules but found found
+null null ras bglmaster info bglmaster has been started bglmaster consoleip consoleport configfile bglmasterinit autorestart y
+null discovery error found invalid node ecid in processor card slot ecid
+null discovery error node card status alert alert alert alert is are active clock mode is low clock select is midplane phy jtag reset is asserted asic jtag reset is not asserted temperature mask is not active no temperature error temperature limit error latch is clear pgood is asserted pgood error latch is clear mpgood is ok mpgood error latch is clear the volt rail is ok the volt rail is ok
+unknownlocation unknownlocation null discovery severe problem communicating with service card ido chip javaioioexception could not find ethernetswitch on portaddress
+unknownlocation unknownlocation null discovery info node card vpd check missing node vpd ecid in processor card slot
+null null ras mmcs error idoproxydb hit assert condition assert expression source file idotransportmgrcpp source line function int idotransportmgrsendpacket idoudpmgr bglctlpavtrace
+null null ras mmcs error ido packet timeout
+ras kernel fatal target message jtagid all all zeros power good may be low
+null hardware warning endserviceaction is restarting the linkcards in midplane as part of service action
+null hardware warning endserviceaction is restarting the nodecards in midplane as part of service action
+null hardware warning endserviceaction performed upon by root
+ras kernel fatal parity error in bank
+ras kernel fatal uncorrectable error detected in external
+ras kernel fatal parity error in read queue
+ras kernel fatal parity error in write
+ras kernel fatal number of correctable errors detected in
+ras kernel fatal interrupt
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m thu aug pdt
+null discovery severe expected active fanmodules but found found
+unknownlocation unknownlocation null discovery warning problem communicating with link card ido machine with lp of caught javalangillegalstateexception while executing operation caught javalangruntimeexception communication error directido for comibmidodirectido object with image version and card type is in state communicationerror sequencenumberisok false expectedsequencenumber reply sequence number timedout true retries timeout expected op command actual op reply expected sync command actual sync reply
+unknownlocation unknownlocation null discovery warning while initializing node card ido with lp of caught javalangillegalstateexception while executing operation caught javalangruntimeexception communication error directido for comibmidodirectido object with image version and card type is in state communicationerror sequencenumberisok false expectedsequencenumber reply sequence number timedout true retries timeout expected op command actual op reply expected sync command actual sync reply
+unknownlocation unknownlocation null discovery warning while initializing node card ido with lp of caught javalangillegalstateexception while executing control operation caught javalangruntimeexception communication error directido for comibmidodirectido object with image version and card type is in state communicationerror sequencenumberisok false expectedsequencenumber reply sequence number timedout true retries timeout expected op command actual op reply expected sync command actual sync reply
+unknownlocation unknownlocation null discovery warning problem communicating with service card ido chip javalangillegalstateexception while executing control operation caught javalangruntimeexception communication error directido for comibmidodirectido object with image version and card type is in state communicationerror sequencenumberisok false expectedsequencenumber reply sequence number timedout true retries timeout expected op command actual op reply expected sync command actual sync reply
+unknownlocation unknownlocation null discovery error bad cable going into linkcard jtag port c bad wires
+unknownlocation unknownlocation null discovery error missing reverse cable cable f c is present but the reverse cable f c is missing
+null hardware warning prepareforservice is being done on this midplane mlctn mcardsernum by
+null hardware warning prepareforservice is being done on this rack by root
+unknownlocation unknownlocation null discovery error bad cable going into linkcard jtag port d bad wires
+unknownlocation unknownlocation null discovery error missing reverse cable cable e d is present but the reverse cable e d is missing
+unknownlocation unknownlocation null discovery warning while initializing node card ido with lp of caught javalangillegalstateexception ido is not in functional state currently in state communicationerror
+null null ras mmcs error idoproxydb hit assert condition assert expression nmsglen source file idomarshaleriocpp source line function int idomarshalerrecvbufferreadblock idomsgidomsghdr
+null null ras mmcs error idoproxydb hit assert condition assert expression recvmsghdrullen source file idomarshaleriocpp source line function virtual int idomarshaleriorunrecv
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m fri aug pdt
+unknownlocation unknownlocation null discovery warning problem communicating with node card ido machine with lp of caught javalangillegalstateexception while executing control operation caught javalangruntimeexception communication error directido for comibmidodirectido object with image version and card type is in state communicationerror sequencenumberisok false expectedsequencenumber reply sequence number timedout true retries timeout expected op command actual op reply expected sync command actual sync reply
+null hardware warning prepareforservice is being done on this part mlctn mcardsernum mlp mip mtype by
+null hardware warning prepareforservice is being done on this rack by
+null hardware warning endserviceaction performed upon by
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m sun aug pdt
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m mon aug pdt
+unknownlocation unknownlocation null hardware severe linkcard power module is not accessible
+unknownlocation unknownlocation null hardware severe linkcard is not fully functional
+unknownlocation unknownlocation null discovery warning this link card is not fully functional
+ras kernel fatal rts treetorus link training failed wanted a b c x x y y z z got a b c x x y z z
+ras kernel fatal rts treetorus link training failed wanted a c x x y y z z got a c x y z z
+ras kernel fatal rts treetorus link training failed wanted b c x x y y z z got b c x x y z z
+ras kernel fatal rts treetorus link training failed wanted a c x x y y z z got a c x y y z z
+ras kernel fatal rts treetorus link training failed wanted c x x y y z z got c x y y z z
+ras kernel fatal rts treetorus link training failed wanted a c x x y y z z got a c x x y z z
+ras kernel fatal rts treetorus link training failed wanted c x x y y z z got c x y z z
+ras kernel fatal rts treetorus link training failed wanted c x x y y z z got c x x y z z
+ras kernel fatal rts treetorus link training failed wanted a b c x x y y z z got a b c x y z z
+ras kernel fatal rts treetorus link training failed wanted b c x x y y z z got b c x y z z
+ras kernel fatal rts treetorus link training failed wanted a b c x x y y z z got a b c x y y z z
+ras kernel fatal rts treetorus link training failed wanted b c x x y y z z got b c x y y z z
+ras kernel fatal rts treetorus link training failed wanted a b c x x y y z z got c x x y y z z
+ras kernel fatal rts treetorus link training failed wanted a b c x x y y z z got c x y y z z
+ras kernel fatal rts treetorus link training failed wanted a c x x y y z z got a c x x y z
+ras kernel fatal rts treetorus link training failed wanted a b c x x y y z z got a b c x x y z
+ras kernel fatal rts treetorus link training failed wanted c x x y y z z got c x y y z
+ras kernel fatal rts treetorus link training failed wanted a b c x x y y z z got a b c x y z
+ras kernel fatal rts treetorus link training failed wanted a c x x y y z z got a c x x y y z
+ras kernel fatal rts treetorus link training failed wanted a b c x x y y z z got a b c x x y y z
+ras kernel fatal rts treetorus link training failed wanted c x x y y z z got c x x y y z
+ras kernel fatal rts treetorus link training failed wanted b c x x y y z z got b c x x y y z
+ras kernel fatal rts treetorus link training failed wanted a b c x x y y z z got a b c x y y z
+ras kernel fatal rts treetorus link training failed wanted a c x x y y z z got a c x y y z
+ras kernel fatal rts treetorus link training failed wanted c x x y y z z got c x y z
+ras kernel fatal rts treetorus link training failed wanted b c x x y y z z got b c x x y z
+ras kernel fatal rts treetorus link training failed wanted a c x x y y z z got a c x y z
+ras kernel fatal rts treetorus link training failed wanted c x x y y z z got c x x y z
+ras kernel fatal rts treetorus link training failed wanted b c x x y y z z got b c x y z
+ras kernel fatal rts treetorus link training failed wanted b c x x y y z z got b c x y y z
+null hardware warning prepareforservice is being done on this part mlctn mcardsernum mlp mip mtype by pjmccart
+null hardware warning endserviceaction performed upon by pjmccart
+ras kernel info ddr unable to steer rank symbol rank is already steering symbol due to multiple symbols being over the correctable error threshold consider replacing the card
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m wed aug pdt
+null hardware warning endserviceaction performed upon by bwallen
+ras app fatal ciod error loading bglappshwstabraptortempraptor invalid or missing program image no such file or directory
+ras app fatal ciod error loading bglappshwstabraptortempraptor invalid or missing program image permission denied
+ras app fatal ciod login chdir pwd failed no such file or directory
+ras kernel info ciod generated core files for program
+ras kernel fatal rts bad message header index greater than total softheader prxf pixf
+ras kernel fatal rts bad message header cpu invalid softheader prxf pixf
+null hardware warning prepareforservice is being done on this part mlctn mcardsernum mlp mip mtype by bwallen
+ras kernel fatal rts bad message header expecting type instead of type softheader prxf pixf
+ras kernel fatal rts bad message header packet index greater than max softheader prxf pixf
+ras kernel fatal rts bad message header cpu invalid softheader ffffffff prxf pixf
+ras kernel info ciod generated core files for program homedampitestscriptsalltoall
+ras kernel info ciod generated core files for program bglappsswlprepibmswlfunctionalsppmchkptrunsppm
+ras app fatal ciod error loading bglappshwstabraptortempraptormemmon invalid or missing program image permission denied
+ras app fatal ciod login chdir homeauseltontesting failed no such file or directory
+ras app fatal ciod error loading np invalid or missing program image no such file or directory
+null null ras mmcs info mmcsdbserver has been started mmcsdbserver usedatabase bgl dbproperties serverdbproperties iolog bglbluelightlogsbgl reconnectblocks all shutdowntimeout
+ras kernel info iar dear
+ras kernel info ciod generated core files for program ddcmdbglv
+ras kernel info nfs mount failed on slept seconds retrying
+ras kernel fatal checkinitialglobalinterruptvalues
+ras kernel fatal validateloadimagecrcindram
+ras app fatal ciod error loading invalid or missing program image permission denied
+ras app fatal ciod login open failed permission denied
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsaccess failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsbrk failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallschdir failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallschmod failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallschown failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsclose failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsdup failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsexit failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsfchmod failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsfchown failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsfstat failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsfsync failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsftruncate failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsgetcwd failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsgetgid failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsgetpid failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsgetrusage failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsgettimeofday failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsgetuid failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallslchown failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallslink failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsllseek failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallslseek failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallslstat failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsmkdir failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsread failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsopen failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsreaddir failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsreadlink failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsreadv failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsrename failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsrmdir failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallssetitimer failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallssignal failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallssocket failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsstat failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallssymlink failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallstime failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallstimes failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallstruncate failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsumask failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsunlink failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallsutime failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallswrite failed no such file or directory
+ras app fatal ciod login chdir bglscratchbwallenswlsyscallstestcaseskernelsyscallswritev failed no such file or directory
+null null ras mmcs info mmcsdbserver has been started mmcsdbserver usedatabase bgl dbproperties dbproperties iolog bglbluelightlogsbgl reconnectblocks all
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m fri sep pdt
+null hardware warning endserviceaction was performed upon by root
+ras app fatal ciod login chdir bglscratchbwallenllnlswlstream failed no such file or directory
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m sat sep pdt
+ras kernel info torus sender sram ecc error s dcr detected and corrected
+null hardware warning prepareforservice is being done on this midplane mlctn mcardsernum by pjmccart
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m wed sep pdt
+ras kernel info ciod generated core files for program bglappsswlprepibmswlfunctionalsppmchkptmprunsppm
+null hardware warning endserviceaction was performed upon by pjmccart
+ras app fatal ciod error loading homejratttestpollrts invalid or missing program image permission denied
+null hardware warning prepareforservice is being done on this rack by pjmccart
+ras kernel info ciod generated core files for program homeauseltonbglior
+ras app fatal ciod login chdir homeloeweromiotests failed no such file or directory
+ras app fatal ciod login chdir homeloewebglcacceptancempiiofuncromiotestsuiteromiotests failed no such file or directory
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m tue sep pdt
+unknownlocation unknownlocation null discovery info ido chip status changed ffffffffffffffffffffffff ip v t status m tue sep pdt
+unknownlocation unknownlocation null discovery severe while initializing node card ido machine with lp of ffffffffffffffffffffffff caught javaioioexception could not contact ido with lp ffffffffffffffffffffffff and ip because javalangruntimeexception communication error directido for uninitialized directido for is in state communicationerror sequencenumberisok false expectedsequencenumber reply sequence number timedout true retries timeout expected op command actual op reply expected sync command actual sync reply
+ras app fatal ciod error loading homeyatesbandwidthrts invalid or missing program image no such file or directory
+ras app fatal ciod error loading homeyatestoruslatencyrts invalid or missing program image no such file or directory
+ras app fatal ciod error loading homeyatesbroadcastrts invalid or missing program image no such file or directory
+ras app fatal ciod error loading bglappsswlperformanceminibenbandwidthrts invalid or missing program image no such file or directory
+ras app fatal ciod error loading bglappsswlperformanceminibentoruslatencyrts invalid or missing program image no such file or directory
+ras kernel info ciod generated core files for program bglappsswlstabilityddcmdddcmdbglv
+ras app fatal ciod error loading bglappsswlstabilityddcmdddcmdbglv invalid or missing program image permission denied
+ras kernel info torus receiver sram ecc error s dcr detected and corrected
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m tue oct pdt
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m wed oct pdt
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m fri oct pdt
+unknownlocation unknownlocation null discovery severe error getting detailed hw info for node caught javaioioexception problems with the chip clear all resets
+unknownlocation unknownlocation null discovery severe error getting detailed hw info for node caught javaioioexception problems with the chip could not pull all resets
+unknownlocation unknownlocation null discovery severe error getting detailed hw info for node caught javaioioexception problems with the chip could not enable clock domains
+null discovery error node card status no alerts are active clock mode is low clock select is midplane phy jtag reset is asserted asic jtag reset is not asserted temperature mask is not active no temperature error temperature limit error latch is clear pgood is not asserted pgood error latch is active mpgood is not ok mpgood error latch is active the volt rail is ok the volt rail is ok
+null discovery error node card status no alerts are active clock mode is low clock select is midplane phy jtag reset is asserted asic jtag reset is not asserted temperature mask is not active no temperature error temperature limit error latch is clear pgood is not asserted pgood error latch is active mpgood is not ok mpgood error latch is active the volt rail is not ok the volt rail is not ok
+null discovery error node card status no alerts are active clock mode is low clock select is midplane phy jtag reset is asserted asic jtag reset is not asserted temperature mask is not active no temperature error temperature limit error latch is clear pgood is not asserted pgood error latch is active mpgood is ok mpgood error latch is active the volt rail is ok the volt rail is ok
+null discovery error node card status no alerts are active clock mode is low clock select is midplane phy jtag reset is asserted asic jtag reset is not asserted temperature mask is not active no temperature error temperature limit error latch is clear pgood is not asserted pgood error latch is active mpgood is not ok mpgood error latch is active the volt rail is ok the volt rail is not ok
+ras kernel info data cache flush parity error detected attempting to correct
+ras kernel info data cache search parity error detected attempting to correct
+ras app fatal ciod error loading bglappsfollowupraptorcurrentbrianrts invalid or missing program image no such file or directory
+ras app fatal ciod error loading homecabotmiranovabglbinlukeimirandanewhack invalid or missing program image no such file or directory
+ras kernel info ciod generated core files for program bglappsfollowupddcmdcurrentbrianrts
+ras app fatal ciod error loading bglappsfollowupraptornewraptortrace invalid or missing program image exec format error
+unknownlocation unknownlocation null discovery warning problem communicating with node card ido machine with lp of caught javalangillegalstateexception while executing operation caught javalangruntimeexception communication error directido for comibmidodirectido object with image version and card type is in state communicationerror sequencenumberisok false expectedsequencenumber reply sequence number timedout true retries timeout expected op command actual op reply expected sync command actual sync reply
+ras app fatal ciod error loading ddcmdbglv invalid or missing program image permission denied
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m thu oct pdt
+ras kernel info ciod generated core files for program homeulrikeynewlinearsolverstestnewij
+ras kernel info ddr activating redundant bit steering for next allocation rank symbol
+ras kernel info sram correctable errors exceeds threshold iar lr
+ras app fatal ciod error loading tmpkubotainferno invalid or missing program image no such file or directory
+ùpdýcpdýcdýc ras kernel info floating point alignment exceptions
+²ðfçidýc ùpdýcpdýcdýc ras kernel info iar dear
+ùpoïãpoïãoïã ras kernel info floating point alignment exceptions
+ras app fatal ciod error loading ddcmdbglv invalid or missing program image no such file or directory
+ras kernel info dcache summary averages ofdirtylines out of ofdirtydblword out of
+null monitor failure temperature over limit on link card
+null null ras mmcs error idoproxydb hit assert condition assert expression ptargetmgr source file idoclientmgrcpp source line function int idoclientmgrtargetclose const char
+ras kernel info ciod generated core files for program cpmdcurx
+ras app fatal ciod error loading invalid or missing program image no such device
+ras kernel info ciod generated core files for program mdcask
+ras kernel info ciod generated core files for program bglappsfollowupspasmstaticspasmmpinewcomp
+null monitor failure link pgood error latched on link card
+null monitor failure local pgood error latched on link card
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m mon nov pst
+ras kernel info critical input interrupt unit bit warning for tree wire suppressing further interrupts of same type
+ras kernel info critical input interrupt unit bit warning for torus z wire suppressing further interrupts of same type
+ras kernel info critical input interrupt unit bit warning for torus y wire suppressing further interrupts of same type
+ras kernel info critical input interrupt unit bit warning for torus x wire suppressing further interrupts of same type
+ras kernel info tree receiver in resynch state event s dcr detected over seconds
+ras kernel info torus receiver z input pipe error s dcr detected and corrected over seconds
+ras kernel info ddr error s detected and corrected on rank symbol over seconds
+ras kernel info total of ddr error s detected and corrected over seconds
+ras kernel info torus receiver y input pipe error s dcr detected and corrected over seconds
+ras kernel info torus receiver x input pipe error s dcr detected and corrected over seconds
+ras kernel info edram error s dcr detected and corrected over seconds
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m tue nov pst
+ras kernel info ciod z coordinate exceeds physical dimension at line of node map file mapdat
+ras app fatal ciod error creating node map from file mapdat bad address
+ras kernel info ciod unexpected eof at line of node map file mapdat
+ras kernel fatal ddr failing info register ddr fail info register
+ras kernel fatal lr cr xer ctr
+ras kernel fatal msr dear esr fpscr
+ras kernel fatal dbsr
+ras kernel fatal floating point status and control register
+ras kernel fatal exception
+ras kernel fatal enabled exception
+ras kernel fatal invalid operation exception
+ras kernel fatal overflow
+ras kernel fatal underflow
+ras kernel fatal dividebyzero
+ras kernel fatal inexact
+ras kernel fatal invalid snan
+ras kernel fatal invalid infinf
+ras kernel fatal invalid zerozero
+ras kernel fatal invalid infzero
+ras kernel fatal invalid compare
+ras kernel fatal fraction
+ras kernel fatal quiet
+ras kernel fatal minus
+ras kernel fatal minus normalized
+ras kernel fatal minus denormalized
+ras kernel fatal plus
+ras kernel fatal plus denormalized
+ras kernel fatal plus normalized
+ras kernel fatal invalid operation exception software
+ras kernel fatal invalid operation exception sqrt
+ras kernel fatal invalid operation exception int cnvt
+ras kernel fatal enable invalid operation
+ras kernel fatal enable overflow
+ras kernel fatal enable underflow
+ras kernel fatal enable dividebyzero
+ras kernel fatal enable inexact
+ras kernel fatal enable nonieee
+ras kernel fatal round
+ras kernel fatal round toward
+ras kernel fatal floating point registers
+ras kernel fatal ffffffff ffffffff ffffffff
+ras kernel info ciod received signal code errno address
+ras kernel fatal number of lines with parity errors written to
+ras kernel info torus sender z retransmission error s dcr detected and corrected over seconds
+null hardware warning prepareforservice shutting down node card mlctn mcardsernum mlp mip mtype as part of service action
+ras kernel info torus sender y retransmission error s dcr detected and corrected over seconds
+ras kernel info torus sender x retransmission error s dcr detected and corrected over seconds
+null hardware warning endserviceaction is restarting the node cards in midplane as part of service action
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m thu nov pst
+ras app fatal ciod error creating node map from file mapdat bad file descriptor
+ras kernel info ciod error opening node map file mapdat no such file or directory
+unknownlocation unknownlocation null hardware warning comibmbgldevicesbulkpowermodule with vpd of comibmbgldevicesbulkpowermodulevpdreply ibm part number vendor cherokee international vendor serial number assembly revision  a code revision manufacture date during week of manufacture location tustin ca usa is usable but not a supported version
+ras kernel info directory error s dcr detected and corrected over seconds
+null monitor failure monitor caught javalangillegalstateexception while executing control operation caught javanetsocketexception broken pipe and is stopping
+null monitor failure monitor caught javalangillegalstateexception while executing operation caught javanetsocketexception broken pipe and is stopping
+null monitor failure while reading fanmodule caught javalangillegalstateexception while executing operation caught javanetsocketexception broken pipe
+null monitor failure hardware monitor caught javalangillegalstateexception while executing operation caught javanetsocketexception broken pipe and is stopping
+null monitor failure while setting fan speed caught javalangillegalstateexception while executing operation caught javalangillegalstateexception client not in a usable state because javanetsocketexception broken pipe
+null monitor failure while reading fanmodule caught javalangillegalstateexception while executing operation caught javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javanetsocketexception broken pipe
+null monitor failure while setting fan speed caught javalangillegalstateexception while executing operation caught javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javanetsocketexception broken pipe
+null monitor failure while reading fanmodule caught javalangillegalstateexception while executing operation caught javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javanetsocketexception broken pipe
+null monitor failure while setting fan speed caught javalangillegalstateexception while executing operation caught javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javanetsocketexception broken pipe
+null monitor failure while reading fanmodule caught javalangillegalstateexception while executing operation caught javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javanetsocketexception broken pipe
+null monitor failure while setting fan speed caught javalangillegalstateexception while executing operation caught javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javanetsocketexception broken pipe
+null monitor failure while reading fanmodule caught javalangillegalstateexception while executing operation caught javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javanetsocketexception broken pipe
+null monitor failure while setting fan speed caught javalangillegalstateexception while executing operation caught javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javanetsocketexception broken pipe
+null monitor failure while reading fanmodule caught javalangillegalstateexception while executing operation caught javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javalangillegalstateexception client not in a usable state because javanetsocketexception broken pipe
+null monitor failure hardware monitor caught javanetsocketexception broken pipe and is stopping
+null monitor severe hardware monitor caught javanetsocketexception broken pipe and is stopping
+ras app fatal ciod error loading mode vn invalid or missing program image no such file or directory
+ras kernel info machine check dcr read timeout mc iar lr
+null null ras mmcs info mmcsdbserver has been started mmcsdbserver usedatabase bgl dbproperties dbproperties iolog bglbluelightlogsbgl reconnectblocks all shutdowntimeout
+null null ras bglmaster info bglmaster has been started bglmaster consoleip consoleport configfile bglmasterinit autorestart y dbproperties dbproperties
+null null ras mmcs info mmcsdbserver has been started mmcsdbserver usedatabase bgl dbproperties dbproperties iolog bglbluelightlogsbgl reconnectblocks all shutdowntimeout shutdowntimeout
+null hardware warning prepareforservice is being done on this midplane mlctn mcardsernum iwhichcardstopwroff by root
+ras app fatal ciod error loading verbose invalid or missing program image no such file or directory
+ras kernel fatal ffffffff
+ras app fatal ciod error loading binhostname invalid or missing program image exec format error
+null hardware warning prepareforservice shutting down link card mlctn mcardsernum mlp mip mtype as part of service action
+null hardware warning endserviceaction is restarting the link cards in midplane as part of service action
+ras kernel info ciod x coordinate exceeds physical dimension at line of node map file mymaptxt
+ras app fatal ciod error creating node map from file mymaptxt no such file or directory
+ras kernel info ciod unexpected eof at line of node map file mymaptxt
+ras app fatal ciod error creating node map from file mymaptxt argument list too long
+ras kernel fatal fffffffa
+ras kernel info torus receiver sram ecc error s dcr detected and corrected over seconds
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m wed nov pst
+ras kernel info microseconds spent in the rbs signal handler during calls microseconds was the maximum time for a single instance of a correctable ddr
+ras kernel info total interrupts critical input interrupts microseconds total spent on critical input interrupts microseconds max time in a critical input interrupt
+time for a single instance of a correctable ddr ras kernel info microseconds spent in the rbs signal handler during calls microseconds was the maximum time for a single instance of a correctable ddr
+nput interrupts microseconds max time in a cr ras kernel info total interrupts critical input interrupts microseconds total spent on critical input interrupts microseconds max time in a critical input interrupt
+ras kernel fatal fffffffe fffffffc
+ras app fatal ciod login chdir homeloeweromiotestsuite failed no such file or directory
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m fri dec pst
+ras kernel info external input interrupt unit bit number of corrected sram errors has exceeded threshold suppressing further interrupts of same type
+ras kernel info ddr suppressing further ce interrupts
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m sat dec pst
+ras kernel info kernel detected integer alignment exceptions iar dear iar dear iar dear iar dear iar dear iar dear iar dear iar dear
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m tue dec pst
+iar dear ras kernel info kernel detected integer alignment exceptions iar dear iar dear iar dear iar dear iar dear iar dear iar dear iar dear
+ras app fatal ciod error loading not a cnk program image
+ras kernel info torus processor sram injection error s dcr detected and corrected over seconds
+ras kernel info torus processor sram reception error s dcr detected and corrected over seconds
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m mon dec pst
+ras kernel info ciod for node incomplete data written to core file
+ras kernel fatal fffffffc
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m thu dec pst
+ras kernel info torus noncrc error s dcr detected and corrected over seconds
+ras app fatal ciod failed to read message prefix on control stream ciostream socket to
+ras kernel fatal data tlb error interrupt
+ras kernel fatal machine check interrupt
+ras kernel fatal rts panic stopping execution
+ras kernel fatal machine check interrupt bit dcache unit data parity error
+ras kernel fatal machine check interrupt bit major internal error
+ras kernel fatal ddr machine check register
+ras kernel fatal machine check interrupt bit dcu read error
+ras kernel fatal data storage interrupt
+ras app fatal ciod error creating node map from file no child processes
+ras app fatal ciod error creating node map from file cannot allocate memory
+ras kernel fatal mailboxmonitorservicemailboxes libidoerror socket closed
+null null ras bglmaster failure mmcsserver exited normally with exit code
+ras linkcard fatal midplaneswitchcontrollersendtrain port disconnected
+ras kernel fatal machine check interrupt bit torustreegi read error
+ras kernel fatal no ethernet link
+ras kernel fatal rts kernel terminated for reason bad message header expecting type type cpu index total
+ras app fatal ciod error creating node map from file resource temporarily unavailable
+null null ras kernel fatal power deactivated
+ras kernel fatal parity
+ras kernel fatal program interrupt
+ras kernel fatal rts kernel terminated for reason bad message header invalid cpu type cpu index total
+ras kernel fatal rts kernel terminated for reason bad message header too many packets type cpu index total
+ras kernel fatal rts kernel terminated for reason bad message header too many packets type cpu index total max
+ras linkcard fatal midplaneswitchcontrollerparityalignment pap failed status
+ras app fatal ciod error creating node map from file device or resource busy
+ras app fatal external input interrupt unit bit uncorrectable torus error
+ras app fatal torus nonrecoverable error dcrs follow
+ras kernel fatal rts kernel terminated for reason bad message header too many packets type cpu index total m
+ras kernel fatal mailboxmonitorservicemailboxes libidoerror unexpected socket error broken pipe
+null null ras bglmaster failure mmcsserver exited abnormally due to signal aborted
+ras kernel fatal rts kernel terminated for reason bad message header too many packets type cpu index total ma
+ras kernel fatal mailboxmonitorservicemailboxes libidoerror bglerridopkttimeout connection lost to nodelinkservice card
+ras app fatal ciod error reading message prefix after loginmessage on ciostream socket to link has been severed
+null null ras bglmaster failure mmcsserver exited abnormally due to signal segmentation fault
+null monitor failure monitor caught javalangunsupportedoperationexception power module not present and is stopping
+null monitor failure while inserting monitor info into db caught javalangnullpointerexception
+null null ras bglmaster failure idoproxy exited normally with exit code
+ras kernel fatal error unable to mount filesystem
+ras kernel fatal lustre mount failed blockid location
+ras kernel fatal microloader assertion
+ras app fatal ciod error reading message prefix after loadmessage on ciostream socket to link has been severed
+ras app fatal ciod error reading message prefix after loadmessage on ciostream socket to connection reset by peer
+ras linkcard fatal midplaneswitchcontrollerparityalignment pap failed status dfffffff
+ras linkcard fatal midplaneswitchcontrollerparityalignment pap failed status ffffffff
+ras linkcard fatal midplaneswitchcontrollerreceivetrain iap failed status beeaabff
+ras kernel fatal rts treetorus link training failed wanted a b c x x y y z z got a c x x y y z z
+null null ras bglmaster failure ciodb exited abnormally due to signal aborted
+ras app fatal ciod error reading message prefix after versionmessage on ciostream socket to link has been severed
+ras app fatal ciod error reading message prefix after unknown on ciostream socket to link has been severed
+ras kernel fatal rts kernel terminated for reason
+ras kernel fatal kernel panic
+ras kernel info external input interrupt unit bit tree receiver in resynch mode
+ras linkcard fatal midplaneswitchcontrollerreceivetrain iap failed status ffbffbff
+ras kernel fatal lustre mount failed point
+null null ras mmcs info mmcsdbserver has been started mmcsdbserver usedatabase bgl dbproperties serverdbproperties iolog bglbluelightlogsbgl reconnectblocks all noreconnectblocks
+ras kernel fatal external input interrupt unit bit tree header with no target waiting
+null monitor failure power module status fault detected on node card status registers are
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m mon sep pdt
+unknownlocation unknownlocation null discovery info new ido chip inserted into the database ffffffffffffffffffffffff ip v t
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m sun sep pdt
+ras kernel fatal pro
+ras kernel fatal program
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m thu sep pdt
+ras kernel fatal floating point unavailable interrupt
+ras kernel info microloader assertion
+ras kernel fatal error sending packet on tree network packet at address is not aligned
+ras kernel fatal ddr redundant bit steering failed sequencer timeout
+ras kernel fatal ddrsize ddrsize
+ras kernel fatal rts assertion failed personalityversion bglpersonalityversion in void start at
+ras mmcs fatal major internal error
+null hardware warning prepareforservice is being done on this part mlctn mcardsernum mlp mip mtype by cupps
+null hardware warning endserviceaction performed upon by cupps
+unknownlocation unknownlocation null discovery info ido chip status changed ip v t status m mon oct pdt
+ras kernel fatal error receiving packet on tree network expecting type instead of type softheader prxf pixf
+null monitor failure no power module found found on link card
+ras kernel fatal idoproxy communication failure socket closed
+ras app fatal ciod error creating node map from file mapdat no child processes
+null null ras kernel fatal power good signal deactivated a service action may be required
+ras app fatal ciod error reading message prefix on ciostream socket to link has been severed
+ras kernel fatal power good signal deactivated a service action may be required
+ras kernel fatal target message invalid jtagid ffffffff run environmental monitor to diagnose possible hardware failure
+ras app fatal ciod error reading message prefix on ciostream socket to connection reset by peer
+null monitor failure monitor caught javalangillegalstateexception while executing control operation caught javaioeofexception and is stopping
+ras kernel info machine check plb write irq mc iar lr
+ras app fatal ciod error reading message prefix on ciostream socket to connection timed out
+ras kernel fatal idoproxy communication failure bglerridopkttimeout connection lost to nodelinkservice card
+ras kernel info ciod in packet from node message still ready for node softheader
+ras kernel fatal machine check interrupt bit dcache unit read return parity error
+ras kernel fatal machine check interrupt bit dcache unit write data parity error
+ras kernel fatal ffffffff bffebcbe
+ras linkcard fatal midplaneswitchcontrollerclearport bllclearport failed
+ras kernel fatal instruction tlb error interrupt
+ras kernel fatal ffffffff fffffffb
+ras app fatal ciod login chdir failed inputoutput error
+ras kernel fatal error receiving packet on tree network packet index greater than max softheader prxf pixf
+ras kernel fatal rts assertion failed vaddr in int initializeappmemory int tlbentry unsigned int unsigned int at
+ras kernel fatal ffffffff cccccccd

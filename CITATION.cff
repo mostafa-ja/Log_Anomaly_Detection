@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or empirical benchmarks, please cite it as below."
+authors:
+  - family-names: "Jafari"
+    given-names: "Mostafa"
+    affiliation: "Shahid Beheshti University, Faculty of Electrical and Computer Engineering"
+title: "Log-Based Anomaly Detection Suite: Deep Learning Architectures for Distributed Telemetry"
+version: 1.0.0
+date-released: 2023-10-01
+url: "https://github.com/mostafa-ja/Anomaly-detection"
+keywords:
+  - anomaly-detection
+  - deep-learning
+  - log-analysis
+  - pytorch
+  - aiops
+  - site-reliability-engineering
+license: MIT

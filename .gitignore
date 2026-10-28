@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Caches & Test Artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE and OS Files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Large Datasets & Log Archives (preserve directory structure via .gitkeep)
+*.log
+*.tar.gz
+*.gz
+*.zip
+datasets/BGL/BGL_100K.log
+datasets/BGL/*_index
+datasets/BGL/*.index
+datasets/BGL/index2embed
+datasets/BGL/reduced_index2embed
+datasets/BGL100/*
+datasets/BGL_20_5/*
+
+# Model Checkpoints & Weights
+checkpoints/*.pth
+checkpoints/*.pt
+*.bin
+*.safetensors
+
+# Temporary extracts
+reports/extracted_report.txt
