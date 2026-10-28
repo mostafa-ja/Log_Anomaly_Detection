@@ -2,8 +2,8 @@
 
 **Author**: Mostafa Jafari  
 **Institution**: Faculty of Electrical and Computer Engineering, Shahid Beheshti University, Tehran, Iran  
-**Academic Context**: Master of Science Research Thesis in Computer Engineering (Artificial Intelligence)  
-**Target Repository**: [https://github.com/mostafa-ja/Anomaly-detection](https://github.com/mostafa-ja/Anomaly-detection)  
+**Production Repository**: [https://github.com/mostafa-ja/Log_Anomaly_Detection](https://github.com/mostafa-ja/Log_Anomaly_Detection)  
+**Original Thesis Repository**: [https://github.com/mostafa-ja/Log-Based-_Anomaly_Detection](https://github.com/mostafa-ja/Log-Based-_Anomaly_Detection)  
 **Date**: October 2023 / Updated October 2026  
 
 ---

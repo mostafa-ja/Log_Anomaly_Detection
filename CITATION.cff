@@ -7,7 +7,8 @@ authors:
 title: "Log-Based Anomaly Detection Suite: Deep Learning Architectures for Distributed Telemetry"
 version: 1.0.0
 date-released: 2023-10-01
-url: "https://github.com/mostafa-ja/Anomaly-detection"
+url: "https://github.com/mostafa-ja/Log_Anomaly_Detection"
+repository-code: "https://github.com/mostafa-ja/Log_Anomaly_Detection"
 keywords:
   - anomaly-detection
   - deep-learning

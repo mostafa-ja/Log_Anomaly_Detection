@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mostafa-ja/Anomaly-detection/blob/main/Log_Anomaly_Detection.ipynb)
-[![CI Status](https://github.com/mostafa-ja/Anomaly-detection/actions/workflows/ci.yml/badge.svg)](https://github.com/mostafa-ja/Anomaly-detection/actions)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mostafa-ja/Log_Anomaly_Detection/blob/main/Log_Anomaly_Detection.ipynb)
+[![CI Status](https://github.com/mostafa-ja/Log_Anomaly_Detection/actions/workflows/ci.yml/badge.svg)](https://github.com/mostafa-ja/Log_Anomaly_Detection/actions)
 [![Python Version](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -23,11 +23,14 @@
 ---
 
 > [!NOTE]
-> **Academic Attribution & Reference**:
-> This repository is based on the Master's Thesis research by **Mostafa Jafari** at the **Faculty of Electrical and Computer Engineering, Shahid Beheshti University (Tehran, Iran)**, titled *"Deep Learning Based Log Anomaly Detection for Detecting Diverse Faults in Distributed Systems"*.
+> **Academic Attribution & Historical Context**:
+> This repository is a production-grade refactoring and modernization of the original thesis codebase:
+> - 🚀 **Production Repository**: [https://github.com/mostafa-ja/Log_Anomaly_Detection](https://github.com/mostafa-ja/Log_Anomaly_Detection)
+> - 🏛️ **Original Research Repository**: [https://github.com/mostafa-ja/Log-Based-_Anomaly_Detection](https://github.com/mostafa-ja/Log-Based-_Anomaly_Detection)
+> - **Author**: **Mostafa Jafari** (*Faculty of Electrical and Computer Engineering, Shahid Beheshti University, Tehran, Iran*)
+> - **MSc Research Thesis**: *"Deep Learning Based Log Anomaly Detection for Detecting Diverse Faults in Distributed Systems"*
 >
-> 📖 Read the complete peer-reviewed academic report: [`REPORT.md`](file:///c:/Users/A/Desktop/Log-Based-_Anomaly_Detection-main/REPORT.md)  
-> 🔗 Original Research Repository: [https://github.com/mostafa-ja/Anomaly-detection](https://github.com/mostafa-ja/Anomaly-detection)
+> 📖 Read the complete peer-reviewed academic report: [`REPORT.md`](file:///c:/Users/A/Desktop/Log-Based-_Anomaly_Detection-main/REPORT.md)
 
 ---
 
@@ -120,14 +123,14 @@ All models were evaluated on benchmark distributed system telemetry (**HDFS** wi
 ### Option 1: 1-Click Interactive Google Colab
 Launch the self-contained, GPU-accelerated notebook directly in your browser:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mostafa-ja/Anomaly-detection/blob/main/Log_Anomaly_Detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mostafa-ja/Log_Anomaly_Detection/blob/main/Log_Anomaly_Detection.ipynb)
 
 ### Option 2: Local Installation (Pip / Conda)
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/mostafa-ja/Anomaly-detection.git
-cd Anomaly-detection
+git clone https://github.com/mostafa-ja/Log_Anomaly_Detection.git
+cd Log_Anomaly_Detection
 
 # 2. Create isolated environment
 # Using Conda:
